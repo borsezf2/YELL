@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "388066800506",
+    "firebase_url": "https://yell-borse.firebaseio.com",
+    "project_id": "yell-borse",
+    "storage_bucket": "yell-borse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388066800506:android:e9dda6f3b3287a76",
+        "android_client_info": {
+          "package_name": "yell.borse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY50N4kqBBCgYCQ-f7baRL4zxlGo6fr9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388066800506-9cvt4hss3epnu1h94ndau7h10cg44np6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
