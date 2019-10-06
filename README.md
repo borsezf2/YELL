@@ -1,4 +1,8 @@
 # YELL
+
+This is an open source project, feel free to work on this.
+you dont't need to set up any extra things in this project just run this and you'll be set to go.
+
 Your Education and Learning Leap
 
 One Can Find all the College Notes and Solutions here,
